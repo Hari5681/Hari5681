@@ -1,36 +1,73 @@
-# Hi, I'm Hari Krishna
+<div align="center">
 
-**Electronics & Communication Engineering undergraduate** · Interested in the intersection of electronics, Android, and software engineering.
+# Hari Krishna
 
-I build practical projects to learn how systems work—from simulated IoT monitoring to source-backed data dashboards. I'm currently improving my **Python/backend skills** and learning **Android development with Kotlin and Jetpack Compose**.
+**Electronics & Communication Engineering undergraduate**
 
-### Featured work
+Building at the intersection of **embedded systems, backend engineering, and useful interfaces**.
 
-| Project | What I built | Stack |
-|---|---|---|
-| **[OpenEvidence India](https://github.com/Hari5681/openevidence-india)** | A public-data dashboard with official World Bank imports, validation, source provenance, and revision history. [Live demo](https://openevidence-india.onrender.com) | Python, FastAPI, PostgreSQL, GitHub Actions |
-| **[NexaPole](https://github.com/Hari5681/nexa-pole)** | An IoT-inspired smart-streetlight monitoring prototype with **simulated** telemetry, fault rules, and a digital twin. | Python, FastAPI, SQLite, ESP32 mock firmware |
-| **[CodeBloom](https://github.com/Hari5681/daily-kotlin-practice)** | A learning dashboard that publishes Kotlin and Python coding challenges. | Kotlin, Python, HTML, CSS, JavaScript |
-| **[HariVerse Portfolio](https://github.com/Hari5681/My_portfolio)** | My portfolio for projects, education, skills, and experimental web tools. [Website](https://hari-portfolio-firebase.vercel.app) | Next.js, React, TypeScript, Firebase |
+[Portfolio](https://hari-portfolio-firebase.vercel.app) · [OpenEvidence live demo](https://openevidence-india.onrender.com) · [Projects](https://github.com/Hari5681?tab=repositories)
 
-### What I'm working on
+</div>
 
-- **Android:** Learning Kotlin and Jetpack Compose fundamentals.
-- **Electronics & IoT:** Exploring sensors, embedded systems, and practical monitoring workflows.
-- **Backend engineering:** Building APIs with validation, tests, databases, and deployment.
-- **Design:** Improving usability and accessibility in web and mobile interfaces.
+---
 
-### Tools & technologies
+### Selected engineering work
 
-**Projects:** Python · FastAPI · SQLAlchemy · PostgreSQL · SQLite · JavaScript · TypeScript · React · Next.js · Git · GitHub Actions
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Learning:** Kotlin · Jetpack Compose · Embedded systems / IoT
+#### [NexaPole](https://github.com/Hari5681/nexa-pole)
 
-### Connect
+**Smart-streetlight telemetry prototype**
 
-- **Portfolio:** [HariVerse](https://hari-portfolio-firebase.vercel.app)
-- **GitHub:** [@Hari5681](https://github.com/Hari5681)
+A runnable 16-device digital twin with SQLite persistence, a FastAPI service, authenticated simulated telemetry, fault rules, and an operations dashboard.
 
-I'm interested in **internships and opportunities to learn through real engineering work**, especially where electronics and software meet.
+**Evidence:** [CI tests](https://github.com/Hari5681/nexa-pole/actions/workflows/ci.yml) · [Source](https://github.com/Hari5681/nexa-pole)
 
-<sub>Projects are documented according to their actual maturity. Simulated telemetry is labelled as simulated, and public data is not represented as independently certified.</sub>
+<sub>Simulated measurements only — no real deployed hardware or predictive ML.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### [OpenEvidence India](https://github.com/Hari5681/openevidence-india)
+
+**Traceable public-data analysis**
+
+A deployed data dashboard using World Bank indicators, source-hash snapshots, validation, PostgreSQL, and scheduled imports.
+
+**Evidence:** [Live application](https://openevidence-india.onrender.com) · [CI tests](https://github.com/Hari5681/openevidence-india/actions/workflows/ci.yml)
+
+<sub>Source metadata is documented; data and licenses are not independently certified.</sub>
+
+</td>
+</tr>
+</table>
+
+### Background and technical direction
+
+- **Electronics:** ECE coursework; exploring sensor interfaces, signal processing and embedded systems.
+- **Software:** Developing Python and FastAPI projects with databases, input validation and automated tests.
+- **Android:** Learning Kotlin and Jetpack Compose; currently building fundamentals.
+- **Interfaces:** Interested in simple, accessible mobile and web experiences.
+
+### Smaller work
+
+[HariVerse Portfolio](https://github.com/Hari5681/My_portfolio) — my Next.js project showcase.
+
+[CodeBloom](https://github.com/Hari5681/daily-kotlin-practice) — a Kotlin/Python learning exercise dashboard.
+
+### What I want to improve next
+
+**NexaPole:** move beyond synthetic readings by testing a safely isolated **low-voltage sensor prototype**, documenting calibration, collecting measured data, and comparing it with the simulation. *Not completed yet.*
+
+**Android:** ship and test a small Kotlin app, not just a UI mockup.
+
+---
+
+**Open to internships and hands-on engineering opportunities.**
+
+[View portfolio](https://hari-portfolio-firebase.vercel.app) · [GitHub repositories](https://github.com/Hari5681?tab=repositories)
+
+<sub>All project status and limitations are stated explicitly. No automated contribution charts or invented performance numbers.</sub>
