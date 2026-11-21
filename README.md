@@ -1,36 +1,29 @@
 <div align="center">
 
+<sub>ELECTRONICS &nbsp; / &nbsp; SOFTWARE &nbsp; / &nbsp; DESIGN</sub>
+
 # Bothsa Hari Krishna
 
 **Electronics & Communication Engineering Student**
 
-*Exploring the connection between hardware, software and thoughtful design.*
+*Learning to make technology useful, reliable, and easy to use.*
 
 </div>
 
 ---
 
-### Hi, I'm Hari.
+### Hello, I'm Hari.
 
-I enjoy turning ideas into useful things. I'm learning Android development, exploring electronics, and paying attention to the small details that make technology easier to use.
+I'm an ECE undergraduate learning to build **Android apps** and exploring how software connects with **circuits and sensors**. I like starting with a simple idea, understanding how it works, and improving it.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Currently learning</strong><br>
-      Kotlin · Jetpack Compose<br>
-      Python · IoT
-    </td>
-    <td width="50%" valign="top">
-      <strong>Interested in</strong><br>
-      Android apps · Sensors<br>
-      UI/UX · AI-assisted development
-    </td>
-  </tr>
-</table>
+**Currently learning** &nbsp; `Kotlin` · `Jetpack Compose` · `Python` · `IoT`
+
+**Interested in** &nbsp; Android development · Sensor-based systems · UI/UX · AI-assisted development
+
+---
 
 <div align="center">
 
-**Open to internships and hands-on engineering opportunities.**
+**Open to internships and practical engineering opportunities.**
 
 </div>
