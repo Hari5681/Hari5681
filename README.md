@@ -24,7 +24,7 @@ Building at the intersection of **embedded systems, backend engineering, and use
 
 A runnable 16-device digital twin with SQLite persistence, a FastAPI service, authenticated simulated telemetry, fault rules, and an operations dashboard.
 
-**Evidence:** [CI tests](https://github.com/Hari5681/nexa-pole/actions/workflows/ci.yml) · [Source](https://github.com/Hari5681/nexa-pole)
+**Evidence:** [CI tests](https://github.com/Hari5681/nexa-pole/actions/workflows/ci.yml) · [Engineering case study](https://github.com/Hari5681/nexa-pole/blob/main/docs/ENGINEERING_CASE_STUDY.md)
 
 <sub>Simulated measurements only — no real deployed hardware or predictive ML.</sub>
 
