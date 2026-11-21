@@ -1,15 +1,19 @@
+<div align="center">
+
 # Bothsa Hari Krishna
 
 **Electronics & Communication Engineering Student**
 
 *Interested in the ideas that connect hardware, software and design.*
 
+</div>
+
 ### Hi, I'm Hari.
 
-I'm an Electronics and Communication Engineering undergraduate interested in how hardware and software come together. I enjoy building practical ideas, learning from mistakes, and making things easier to use.
+I enjoy exploring how electronics and software work together. I'm learning to build Android apps, experiment with new ideas, and create technology that's practical and easy to use.
 
 **Learning:** Kotlin · Jetpack Compose · Python · IoT
 
-**Exploring:** Android apps · Sensors · UI design · AI-assisted development
+**Interested in:** Android Development · Sensors · UI/UX · AI
 
 **Open to internships and hands-on engineering opportunities.**
