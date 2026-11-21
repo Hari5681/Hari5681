@@ -4,16 +4,33 @@
 
 **Electronics & Communication Engineering Student**
 
-*Interested in the ideas that connect hardware, software and design.*
+*Exploring the connection between hardware, software and thoughtful design.*
 
 </div>
 
+---
+
 ### Hi, I'm Hari.
 
-I enjoy exploring how electronics and software work together. I'm learning to build Android apps, experiment with new ideas, and create technology that's practical and easy to use.
+I enjoy turning ideas into useful things. I'm learning Android development, exploring electronics, and paying attention to the small details that make technology easier to use.
 
-**Learning:** Kotlin · Jetpack Compose · Python · IoT
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Currently learning</strong><br>
+      Kotlin · Jetpack Compose<br>
+      Python · IoT
+    </td>
+    <td width="50%" valign="top">
+      <strong>Interested in</strong><br>
+      Android apps · Sensors<br>
+      UI/UX · AI-assisted development
+    </td>
+  </tr>
+</table>
 
-**Interested in:** Android Development · Sensors · UI/UX · AI
+<div align="center">
 
 **Open to internships and hands-on engineering opportunities.**
+
+</div>
