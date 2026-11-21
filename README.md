@@ -2,16 +2,16 @@
 
 # Bothsa Hari Krishna
 
-**ECE Undergraduate · Electronics × Software**
+**Electronics & Communication Engineering Student**
 
-*Curious about how things work. Interested in building things that matter.*
+*Interested in the ideas that connect hardware, software and design.*
 
 </div>
 
----
+### A little about me
 
-I’m exploring the space between **hardware and software** — from circuits and sensors to Android apps and clean interfaces.
+I'm learning to build Android apps and exploring how code works with electronics. I enjoy creating simple things, understanding the details, and improving with each project.
 
-**Currently learning:** Kotlin · Jetpack Compose · Python · IoT · AI tools
+**My toolkit:** `Kotlin` · `Jetpack Compose` · `Python` · `IoT` · `AI tools`
 
-**Open to internships and hands-on opportunities.**
+**Currently:** Building my skills and looking for internship opportunities.
