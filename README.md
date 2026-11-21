@@ -1,4 +1,10 @@
-### **Hi, I'm Hari.**
+# Bothsa Hari Krishna
+
+**Electronics & Communication Engineering Student**
+
+*Interested in the ideas that connect hardware, software and design.*
+
+### Hi, I'm Hari.
 
 I'm an Electronics and Communication Engineering undergraduate interested in how hardware and software come together. I enjoy building practical ideas, learning from mistakes, and making things easier to use.
 
