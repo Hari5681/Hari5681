@@ -2,11 +2,11 @@
 
 # Hari Krishna
 
-**ECE Student · Android Learner · Exploring Electronics, Software & AI**
+**ECE student · Android & Python learner · Exploring AI and electronics**
 
-Hi, I'm **Hari Krishna** — you can call me **Hari**.
+Hi, I'm **Hari**. I like figuring out how things work and turning small ideas into something useful.
 
-I enjoy learning how things work and turning small ideas into useful projects. I'm still building my programming skills, so I prefer simple, well-tested work over projects with big claims.
+[**Portfolio**](https://hari-portfolio-firebase.vercel.app) · [**My GitHub**](https://github.com/Hari5681)
 
 </div>
 
@@ -14,40 +14,38 @@ I enjoy learning how things work and turning small ideas into useful projects. I
 
 ### A little about me
 
-I'm studying **Electronics and Communication Engineering**. My interests are circuits, sensors, Android apps, and clean, easy-to-use interfaces.
+I'm studying **Electronics and Communication Engineering** and learning to build software alongside it.
 
-I learn best by trying things, making mistakes, and fixing them. My goal is to become more confident at building a project from start to finish — not just making it look impressive.
+I’m interested in Android apps, sensors, simple automation, and interfaces that feel easy to use. I don't know everything yet, and that's okay — I enjoy experimenting, finding out why something breaks, and making the next version a little better.
 
-### What I'm learning
+### What I'm working on
 
-- **Android:** Kotlin basics and Jetpack Compose
-- **Programming:** Python, problem solving, and the fundamentals of working with APIs
-- **Electronics:** Circuits, sensors, and practical IoT concepts
-- **Design:** Simple, readable app and web interfaces
-- **AI tools:** Using AI to explore ideas, understand errors, and review code — then checking and learning how the solution works myself
+| Area | My focus |
+| :--- | :--- |
+| **Android** | Learning Kotlin and Jetpack Compose, one small app at a time |
+| **Programming** | Practising Python, problem-solving, APIs, and the basics of databases |
+| **Electronics** | Exploring circuits, sensors, and how hardware connects to software |
+| **Design** | Making apps cleaner, simpler, and easier to understand |
+| **AI** | Learning to use AI tools for ideas, debugging, and small experiments — then reading and testing the code myself |
 
-### How I want to build projects
+### How I like to build
 
-I'm keeping my experiments private while I improve them. When a project is ready to share, I want it to have:
+**Start small. Make it work. Understand it. Improve it.**
 
-- A clear problem it solves
-- Code I can understand and explain
-- Simple setup instructions and tests
-- Real screenshots or a working demo, where possible
-- An honest note about what is finished and what is still being learned
+I'm rebuilding my practice projects privately for now. When they're useful and tested, I'll share the code, screenshots, instructions, and what I learned — including what still needs work.
 
-### Currently focused on
+### What's next
 
-Building small projects that combine my **ECE background** with software, and getting better at **Kotlin, Python, and practical AI-assisted development**.
+I'd like to finish a small Android app, make a useful Python tool, and eventually test a simple low-voltage electronics project with real measurements.
 
-I'm interested in **internships, learning opportunities, and working with people who enjoy building useful things**.
+I'm also **looking for internships and opportunities to learn from real projects and teams**.
 
 ---
 
 <div align="center">
 
-**Hari Krishna · @Hari5681**
+**Hari Krishna** &nbsp;·&nbsp; **@Hari5681**
 
-*Learning, building, improving — one project at a time.*
+*Still learning. Always curious.*
 
 </div>
