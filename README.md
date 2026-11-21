@@ -1,4 +1,4 @@
-# Hari Krishna
+# Bothsa Hari Krishna
 
 **ECE Undergraduate · Electronics & Software**
 
