@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Bothsa Hari Krishna</title>
+  <desc id="desc">Electronics and Communication Engineering undergraduate exploring electronics and software</desc>
+  <rect width="1200" height="260" rx="22" fill="#f6f8fb"/>
+  <rect x="11" y="11" width="1178" height="238" rx="16" fill="none" stroke="#e0e6ef"/>
+  <rect x="59" y="39" width="6" height="17" rx="3" fill="#3f73e8"/>
+  <text x="80" y="53" fill="#607086" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="15" letter-spacing="2.7">ELECTRONICS / SOFTWARE</text>
+  <text x="58" y="132" fill="#152033" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="57" letter-spacing="-1.8">Bothsa Hari Krishna</text>
+  <text x="61" y="182" fill="#607086" font-family="Arial, Helvetica, sans-serif" font-size="22">ECE undergraduate</text>
+  <rect x="59" y="204" width="195" height="2" rx="1" fill="#3f73e8"/>
+  <g stroke="#d8e4fa" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+   <path d="M839 75 H926 Q938 75 938 87 V111 H978"/>
+   <path d="M819 137 H885 Q899 137 899 150 V191 H968"/>
+   <path d="M1076 109 H1120 V65 H1152"/>
+   <path d="M1076 168 H1114 V209 H1160"/>
+   <path d="M994 50 V80"/>
+  </g>
+  <g fill="#3f73e8">
+   <circle cx="838" cy="75" r="6"/>
+   <circle cx="818" cy="137" r="6"/>
+   <circle cx="1152" cy="65" r="6"/>
+   <circle cx="1160" cy="209" r="6"/>
+   <circle cx="994" cy="48" r="5"/>
+  </g>
+  <rect x="973" y="80" width="108" height="112" rx="20" fill="#eaf0fd" stroke="#3f73e8" stroke-width="2"/>
+  <rect x="995" y="98" width="64" height="58" rx="10" fill="#ffffff" stroke="#d8e4fa" stroke-width="2"/>
+  <path d="M1009 130 L1022 141 L1043 113" fill="none" stroke="#3f73e8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1016" y="168" width="21" height="4" rx="2" fill="#3f73e8"/>
+</svg>
