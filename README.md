@@ -1,15 +1,15 @@
-# Hi, I'm Hari Krishna
+# Hari Krishna
 
-**ECE student · Learning Android & Python**
+**ECE Undergraduate · Electronics × Software**
 
-I enjoy building small, useful projects that connect electronics and software.
+I'm interested in building practical things — from circuits and sensors to Android apps and useful software.
 
-- **Learning:** Kotlin, Jetpack Compose, Python and IoT
-- **Exploring:** AI-assisted development and clean UI design
-- **Working on:** Simple projects I can understand, test and improve
+**Currently exploring**
+- **Android:** Kotlin and Jetpack Compose
+- **Electronics:** IoT, sensors and embedded systems
+- **Software:** Python, APIs and clean UI design
+- **AI:** Using AI tools thoughtfully while learning and building
 
-My projects are private while I'm learning. I'll share them when they're ready.
+I'm working toward projects that are simple, reliable and worth sharing.
 
-**Open to internships and learning opportunities.**
-
-[Portfolio](https://hari-portfolio-firebase.vercel.app) · [GitHub](https://github.com/Hari5681)
+[Portfolio](https://hari-portfolio-firebase.vercel.app) · **Open to internships**
