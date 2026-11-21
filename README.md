@@ -2,72 +2,52 @@
 
 # Hari Krishna
 
-**Electronics & Communication Engineering undergraduate**
+**ECE Student · Android Learner · Exploring Electronics, Software & AI**
 
-Building at the intersection of **embedded systems, backend engineering, and useful interfaces**.
+Hi, I'm **Hari Krishna** — you can call me **Hari**.
 
-[Portfolio](https://hari-portfolio-firebase.vercel.app) · [OpenEvidence live demo](https://openevidence-india.onrender.com) · [Projects](https://github.com/Hari5681?tab=repositories)
+I enjoy learning how things work and turning small ideas into useful projects. I'm still building my programming skills, so I prefer simple, well-tested work over projects with big claims.
 
 </div>
 
 ---
 
-### Selected engineering work
+### A little about me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm studying **Electronics and Communication Engineering**. My interests are circuits, sensors, Android apps, and clean, easy-to-use interfaces.
 
-#### [NexaPole](https://github.com/Hari5681/nexa-pole)
+I learn best by trying things, making mistakes, and fixing them. My goal is to become more confident at building a project from start to finish — not just making it look impressive.
 
-**Smart-streetlight telemetry prototype**
+### What I'm learning
 
-A runnable 16-device digital twin with SQLite persistence, a FastAPI service, authenticated simulated telemetry, fault rules, and an operations dashboard.
+- **Android:** Kotlin basics and Jetpack Compose
+- **Programming:** Python, problem solving, and the fundamentals of working with APIs
+- **Electronics:** Circuits, sensors, and practical IoT concepts
+- **Design:** Simple, readable app and web interfaces
+- **AI tools:** Using AI to explore ideas, understand errors, and review code — then checking and learning how the solution works myself
 
-**Evidence:** [CI tests](https://github.com/Hari5681/nexa-pole/actions/workflows/ci.yml) · [Engineering case study](https://github.com/Hari5681/nexa-pole/blob/main/docs/ENGINEERING_CASE_STUDY.md)
+### How I want to build projects
 
-<sub>Simulated measurements only — no real deployed hardware or predictive ML.</sub>
+I'm keeping my experiments private while I improve them. When a project is ready to share, I want it to have:
 
-</td>
-<td width="50%" valign="top">
+- A clear problem it solves
+- Code I can understand and explain
+- Simple setup instructions and tests
+- Real screenshots or a working demo, where possible
+- An honest note about what is finished and what is still being learned
 
-#### [OpenEvidence India](https://github.com/Hari5681/openevidence-india)
+### Currently focused on
 
-**Traceable public-data analysis**
+Building small projects that combine my **ECE background** with software, and getting better at **Kotlin, Python, and practical AI-assisted development**.
 
-A deployed data dashboard using World Bank indicators, source-hash snapshots, validation, PostgreSQL, and scheduled imports.
-
-**Evidence:** [Live application](https://openevidence-india.onrender.com) · [CI tests](https://github.com/Hari5681/openevidence-india/actions/workflows/ci.yml)
-
-<sub>Source metadata is documented; data and licenses are not independently certified.</sub>
-
-</td>
-</tr>
-</table>
-
-### Background and technical direction
-
-- **Electronics:** ECE coursework; exploring sensor interfaces, signal processing and embedded systems.
-- **Software:** Developing Python and FastAPI projects with databases, input validation and automated tests.
-- **Android:** Learning Kotlin and Jetpack Compose; currently building fundamentals.
-- **Interfaces:** Interested in simple, accessible mobile and web experiences.
-
-### Smaller work
-
-[HariVerse Portfolio](https://github.com/Hari5681/My_portfolio) — my Next.js project showcase.
-
-[CodeBloom](https://github.com/Hari5681/daily-kotlin-practice) — a Kotlin/Python learning exercise dashboard.
-
-### What I want to improve next
-
-**NexaPole:** move beyond synthetic readings by testing a safely isolated **low-voltage sensor prototype**, documenting calibration, collecting measured data, and comparing it with the simulation. *Not completed yet.*
-
-**Android:** ship and test a small Kotlin app, not just a UI mockup.
+I'm interested in **internships, learning opportunities, and working with people who enjoy building useful things**.
 
 ---
 
-**Open to internships and hands-on engineering opportunities.**
+<div align="center">
 
-[View portfolio](https://hari-portfolio-firebase.vercel.app) · [GitHub repositories](https://github.com/Hari5681?tab=repositories)
+**Hari Krishna · @Hari5681**
 
-<sub>All project status and limitations are stated explicitly. No automated contribution charts or invented performance numbers.</sub>
+*Learning, building, improving — one project at a time.*
+
+</div>
