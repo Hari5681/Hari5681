@@ -1,17 +1,7 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="Bothsa Hari Krishna — ECE undergraduate exploring electronics and software" src="./assets/profile-light.svg" width="100%">
-</picture>
+# Bothsa Hari Krishna
 
-### Hi, I'm Hari.
+ECE undergraduate interested in electronics, Android development, and practical software.
 
-I'm an **Electronics and Communication Engineering undergraduate** interested in how hardware and software come together. I enjoy building practical ideas, learning from mistakes, and making things easier to use.
+Currently learning **Kotlin, Jetpack Compose, Python, and IoT**.
 
-**Learning:** `Kotlin` · `Jetpack Compose` · `Python` · `IoT`
-
-**Exploring:** Android apps · Sensors · UI design · AI-assisted development
-
-**My focus:** Build small, reliable projects I can understand and explain.
-
-**Open to internships and hands-on engineering opportunities.**
+Open to internships and opportunities to learn by building.
